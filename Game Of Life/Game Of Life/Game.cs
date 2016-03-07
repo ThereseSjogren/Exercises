@@ -122,6 +122,7 @@ namespace Game_Of_Life
                     }
                     if (arr[i,j] == 0)
                     {
+                        //Console.ForegroundColor = ConsoleColor.Yellow;
                         Console.Write(" ");
 
                     }
